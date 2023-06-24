@@ -10,5 +10,6 @@ Make sure that you add a .env file in the Backend folder containing which will c
 Install all the dependencies from all the package.json files.
 
 After all the setup, to run the project
+
     1. For Backend: npm run dev
     2. For Frontend: npm start
